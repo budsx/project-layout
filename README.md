@@ -1,2 +1,2 @@
-# project-layout
-Go Project Layout
+# Go Project Layout
+

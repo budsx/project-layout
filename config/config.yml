@@ -1,0 +1,12 @@
+app:
+  name: 'github.com/budsx/project-layout'
+
+http:
+  port: '9999'
+
+logger:
+  log_level: 'info'
+  rollbar_env: 'github.com/budsx/project-layout'
+
+postgres:
+  pool_max: 2
